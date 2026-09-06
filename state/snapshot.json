@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-05T16:30:24.958732+00:00",
+  "captured_at": "2026-09-06T16:41:22.327627+00:00",
   "clones_14d": {},
   "glama": {},
   "registry": {
@@ -55,7 +55,7 @@
     "sherweb-mcp": "2.0.0",
     "spamtitan-mcp": "1.3.3",
     "spanning-mcp": "1.1.4",
-    "superops-mcp": "1.6.7",
+    "superops-mcp": "2.0.1",
     "syncro-mcp": "1.4.9",
     "threatlocker-mcp": "1.3.8",
     "timezest-mcp": "2.0.1",
